@@ -1,0 +1,6 @@
+Pycharm using JetBrains Toolbox App
+More desktops: Settings > Workspace > Virtual desktops > Add + Add Row + Add
+Shortcut to swtich desktops: Settings > Shortcuts > Global Shortcuts > KWin > "Switch one desktop to the left/right/top/bottom" + "Window one desktop left/right/top/botom"
+Touchpad setings to enable natural scrolling
+Gesture controls using https://github.com/bulletmark/libinput-gestures
+Installe KTutor from Discover (Search discover in start menu)
