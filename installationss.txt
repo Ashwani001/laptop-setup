@@ -5,4 +5,4 @@ sudo add-apt-repository ppa:libreoffice/ppa
 sudo apt update
 sudo apt install libreoffice
 sudo apt install ttf-mscorefonts-installer
-
+sudo apt install jupyter-notebook
