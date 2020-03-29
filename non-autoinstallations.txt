@@ -4,3 +4,4 @@ Shortcut to swtich desktops: Settings > Shortcuts > Global Shortcuts > KWin > "S
 Touchpad setings to enable natural scrolling
 Gesture controls using https://github.com/bulletmark/libinput-gestures
 Installe KTutor from Discover (Search discover in start menu)
+git config --global core.editor "vim"
